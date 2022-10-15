@@ -2,8 +2,7 @@
 </p>
 
 
-![Vikas's github activity graph](https://activity-graph.herokuapp.com/graph?username=vikasffic&theme=rogue)
-
+![Vikas's github activity graph](https://activity-graph.herokuapp.com/graph?username=vikasffic&theme=xcode)
 
 ## Github Streak 🔥
 <p align = "center">
